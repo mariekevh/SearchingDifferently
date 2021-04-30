@@ -1,2 +1,3 @@
 # ItMattersHowYouGoogleIt
-Code and replication material for the paper It Matters How You Google It
+
+Code and all replication materials will be shared on this platform ASAP. 
